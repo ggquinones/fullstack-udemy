@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://gabo-admin:admin@devconnector-z8wjy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "adminsecrettoken"
+}
